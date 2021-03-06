@@ -1,0 +1,11 @@
+* {padding: 0px; margin: 0px;}
+
+body {background-image: url("background.png"); background-repeat: repeat; font-family: monotone; font-weight: bolder;}
+
+.container {margin: 5%;}
+
+.header h1 {color:black; line-height: 70px; text-align: center; padding-top: 20px; font-size: 45pt;}
+
+.navigation {margin: 0 auto;}
+
+.navigation img {max-width: 40%; border-radius: 50%; padding: 5%;}
